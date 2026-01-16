@@ -1,1 +1,3 @@
 SceneManager::Init invoked
+SceneManager::Init invoked
+SceneManager::Init invoked
